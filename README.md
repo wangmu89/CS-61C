@@ -1,2 +1,2 @@
 # CS-61C
-https://cs61c.org/
+https://cs61c.org/su20/
